@@ -19,4 +19,3 @@ WHERE name LIKE '%Black%';
 
 
 
-
